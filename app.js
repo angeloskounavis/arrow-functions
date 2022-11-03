@@ -200,3 +200,5 @@ Student.prototype.scopeArrow = () => console.log(this);
 //  this. is an empty construct displaying all parameters
 // 3. Explain why "this" is different when an arrow function is used.
 // arrow functions don't have this. as a use. So when ever its assigned they keep the same value
+// 
+// 
